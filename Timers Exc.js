@@ -13,7 +13,7 @@ function countDown(time){
         console.log(time);
       }
   
-    },1000)
+    },3000)
   }
 
 // Write a function called randomGame that selects a random number between 0 and 1 
